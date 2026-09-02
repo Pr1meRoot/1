@@ -1,0 +1,96 @@
+Jah — Да
+Ei — Нет
+Võib-olla — Может быть
+Muidugi — Конечно
+Ja — И
+Aga — Но
+Sest — Потому что
+Või — Или
+Kui — Если / Когда
+Siis — Тогда
+Nagu — Как / Подобно
+Kus — Где
+Kuhu — Куда
+Kust — Откуда
+Millal — Когда
+Miks — Почему
+Kuidas — Как (каким образом)
+Mis — Что
+Kes — Кто
+Palju — Много
+Vähe — Мало
+Ma / Mina — Я
+Sa / Sina — Ты
+Ta / Tema — Он / Она
+Me / Meie — Мы
+Te / Teie — Вы
+Nad / Nemad — Они
+See — Это / Этот
+Need — Эти
+Kõik — Всё / Все
+Mitte keegi — Никто
+Mitte miski — Ничто
+Olema — Быть
+Tegema — Делать
+Saama — Получать / Мочь
+Tahtma — Хотеть
+Teadma — Знать
+Mõtlema — Думать
+Ütlema — Сказать
+Rääkima — Говорить
+Küsima — Спрашивать
+Vastama — Отвечать
+Tulema — Приходить
+Minema — Идти / Уходить
+Nägema — Видеть
+Kuulma — Слышать
+Saatma — Отправлять
+Ootama — Ждать
+Ostma — Покупать
+Müüma — Продавать
+Mõistma / Aru saama — Понимать
+Maksma — Стоить / Платить
+Elama — Жжить
+Töötama — Работать
+Töö — Работа
+Koht — Место
+Kontor — Офис
+Arvuti — Компьютер
+Projekt — Проект
+Ülesanne — Задача
+Koosolek — Собрание / Митинг
+Kolleeg — Коллега
+Ülemus — Начальник
+Klient — Клиент
+Kiri — Письмо
+Info — Информация
+Raha — Деньги
+Konto — Счет
+Aeg — Время
+Täna — Сегодня
+Eile — Вчера
+Homme — Завтра
+Nüüd — Сейчас
+Hiljem — Позже
+Kohe — Сразу / Сейчас
+Päev — День
+Nädal — Неделя
+Kuu — Месяц
+Aasta — Год
+Kord — Раз
+Inimene — Человек
+Asi — Вещь / Дело
+Hea — Хороший
+Halb — Плохой
+Suur — Большой
+Väike — Маленький
+Uus — Новый
+Vana — Старый
+Linn — Город
+Tänav — Улица
+Pood — Магазин
+Söök — Еда
+Jook — Напиток
+Vesi — Вода
+Maja — Дом
+Tee — Дорога / Чай
